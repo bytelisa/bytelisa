@@ -1,4 +1,4 @@
-### Nice to meet you :)
+### Hey there :)
 
 
 - 🌱 Currently learning: C, Java, SQL.
