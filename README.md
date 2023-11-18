@@ -4,6 +4,11 @@
 - 🌱 Currently learning: C, Java, SQL.
   
             <i class="devicon-c-plain colored"></i>
+  
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
           
 - 📫 How to reach me: @elisa_marzioli on instagram.
 
