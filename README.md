@@ -1,10 +1,10 @@
 ### <h1> Hey there :) </h1>
 
 
-Currently learning: C, Java, SQL.
+Currently learning: C, Java, SQL, UML.
 
 <h5> ⚙️ Some Tools I'm working with: </h5>
-<p align="center">        
+<p align="left">        
           
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="45" height="45" />
