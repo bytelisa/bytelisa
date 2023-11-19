@@ -3,7 +3,7 @@
 
 Currently learning: C, Java, SQL.
 
-<h3> ⚙️	&nbsp;Some Tools I'm working with: </h3>
+<h5> ⚙️ Some Tools I'm working with: </h5>
 <p align="left">        
           
           
