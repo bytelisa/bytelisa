@@ -15,6 +15,6 @@ Currently learning: C, Java, SQL, UML.
 
 
 <p align="left">       
-Reach me! &#8595;
+Reach me &#8595;
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elisamarzioli?igshid=OGQ5ZDc2ODk2ZA==)
