@@ -1,6 +1,6 @@
 ### <h1> Hey there :) </h1>
 
-![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif)  ![](https://github.com/bytelisa/bytelisa/blob/main/blackCatGif.gif)
+![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif)  
 
 Currently learning: Java, SQL, UML.
 
@@ -21,3 +21,5 @@ Currently learning: Java, SQL, UML.
 Reach me &#8595;
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elisamarzioli?igshid=OGQ5ZDc2ODk2ZA==)
+
+![](https://github.com/bytelisa/bytelisa/blob/main/blackCatGif.gif)
