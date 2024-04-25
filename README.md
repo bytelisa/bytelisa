@@ -14,7 +14,7 @@ Currently learning: C, Java, SQL, UML.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytelisa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytelisa&show_icons=true&theme=shadow_green&bg_color=00000000&rank_icon=github&custom_title="Elisa's stats:")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytelisa&show_icons=true&theme=shadow_green&bg_color=00000000&rank_icon=github&include_all_commits=true&text_bold=false)
 <p align="left">       
 Reach me &#8595;
 
