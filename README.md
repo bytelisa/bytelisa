@@ -22,4 +22,4 @@ Reach me &#8595;
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elisamarzioli?igshid=OGQ5ZDc2ODk2ZA==)
 
-![](https://github.com/bytelisa/bytelisa/blob/main/blackCatGif.gif)
+<img src="/blob/main/blackCatGif.gif" width="250" height="250"/>
