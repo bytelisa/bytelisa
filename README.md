@@ -1,13 +1,11 @@
 ### <h1> Hey there :) </h1>
 
-
-Currently learning: C, Java, SQL, UML.
-
 ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif)
+
+Currently learning: Java, SQL, UML.
 
 <h5> ⚙️ Some Tools I'm working with: </h5> 
 <p align="left">        
-          
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
