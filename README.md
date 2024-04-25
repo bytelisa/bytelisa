@@ -3,6 +3,8 @@
 
 Currently learning: C, Java, SQL, UML.
 
+![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif)
+
 <h5> ⚙️ Some Tools I'm working with: </h5> 
 <p align="left">        
           
