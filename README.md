@@ -21,5 +21,3 @@ Reach me &#8595;
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elisamarzioli?igshid=OGQ5ZDc2ODk2ZA==)
 
-
-<img src="/blob/main/pixel_flower-png.png" width="250" height="250"/>
