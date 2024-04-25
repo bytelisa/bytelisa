@@ -2,8 +2,6 @@
 
 ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) 
 
-Currently learning: Java, SQL, UML.
-
 <h5> ⚙️ Some Tools I'm working with: </h5> 
 <p align="left">        
           
@@ -13,7 +11,7 @@ Currently learning: Java, SQL, UML.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="45" height="45" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytelisa&show_icons=true&theme=vue&bg_color=00000000&rank_icon=github&include_all_commits=true&text_bold=false) ![](https://github.com/bytelisa/bytelisa/blob/main/cuteCat.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytelisa&show_icons=true&theme=vue&bg_color=00000000&rank_icon=github&include_all_commits=true&text_bold=false) ![](https://github.com/bytelisa/bytelisa/blob/main/pixel_flower-png.png)
 
 
 ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif)
