@@ -3,7 +3,7 @@
 
 Currently learning: C, Java, SQL, UML.
 
-<h5> ⚙️ Some Tools I'm working with: </h5>
+<h5> ⚙️ Some Tools I'm working with: </h5> ![](https://github.com/bytelisa/resources/blob/main/blueDivider.gif)
 <p align="left">        
           
           
