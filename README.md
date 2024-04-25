@@ -1,6 +1,6 @@
 ### <h1> Hey there :) </h1>
 
-![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif)
+![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) 
 
 Currently learning: Java, SQL, UML.
 
