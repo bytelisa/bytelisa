@@ -13,8 +13,7 @@ Currently learning: C, Java, SQL, UML.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="45" height="45" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytelisa)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytelisa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">       
 Reach me &#8595;
 
