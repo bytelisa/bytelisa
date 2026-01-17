@@ -23,8 +23,8 @@
 
 
 ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) 
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bytelisa&layout=donut-vertical&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bytelisa&theme=onedark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bytelisa&layout=donut-vertical&theme=gruvbox)](https://github.com/Pranesh-2005/github-readme-stats)
 
 
 <p align="left">       
