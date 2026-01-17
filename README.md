@@ -24,6 +24,7 @@
 
 ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytelisa&show_icons=true&theme=vue&bg_color=00000000&rank_icon=github&include_all_commits=true&text_bold=false) ![](https://github.com/bytelisa/bytelisa/blob/main/IMG_2122.png)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytelisa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif)
 
