@@ -24,7 +24,7 @@
 
 ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) ![](https://github.com/bytelisa/bytelisa/blob/main/blueDivider.gif) 
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bytelisa&layout=donut-vertical&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bytelisa&layout=donut-vertical&theme=merko)](https://github.com/Pranesh-2005/github-readme-stats)
 
 
 <p align="left">       
