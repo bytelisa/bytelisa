@@ -29,16 +29,10 @@
 <table>
   <tr>
     <td>
-              [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bytelisa&theme=cobalt)](https://github.com/pranesh-2005/github-readme-stats-fast)
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=ElisaMarzioli&show_icons=true&theme=dark" alt="Elisa Marzioli's GitHub Stats"/>
-      </a>
+      [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bytelisa&theme=cobalt)](https://github.com/pranesh-2005/github-readme-stats-fast)
     </td>
     <td>
-              [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bytelisa&layout=donut-vertical&theme=cobalt)](https://github.com/Pranesh-2005/github-readme-stats)
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaMarzioli&layout=compact&theme=dark" alt="Most Used Languages"/>
-      </a>
+      [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bytelisa&layout=donut-vertical&theme=cobalt)](https://github.com/Pranesh-2005/github-readme-stats)
     </td>
   </tr>
 </table>
